@@ -1,0 +1,1 @@
+enum TabActions { goToTransactions, goToStatistics }
